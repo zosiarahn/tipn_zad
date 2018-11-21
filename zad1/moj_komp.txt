@@ -1,0 +1,4 @@
+Pojemność dysku: 500 GB
+ilość pamięci RAM: 4GB
+rodzaj i prędkość procesora: Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz 2.40 GHz
+64-bitowy
